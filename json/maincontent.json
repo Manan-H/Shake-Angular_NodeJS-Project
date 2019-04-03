@@ -1,0 +1,38 @@
+[
+  {
+
+      "logo": "../assets/logo.png",
+      "donateText": "DONATE",
+      "donationThank": "Thank you for donation",
+      "formLable1": "Firstname",
+      "formLable2": "Lastname",
+      "formLable3": "Address",
+      "formLable4": "Address 2",
+      "formLable5": "City",
+      "formLable6": "State",
+      "chooseLable1": "Choose ...",
+      "chooseLable2": "...",
+      "zipLable": "Zip",
+      "payText": "Payment Method",
+      "paymentIcon1": "http://pluspng.com/img-png/credit-card-png-hd-png-pluspng-pluspng-com-mastercard-png-mastercard-hd-png-2219.png",
+      "paymentIcon2": "http://icons.iconarchive.com/icons/designbolts/credit-card-payment/256/Paypal-icon.png",
+      "closeTxt": "Close",
+      "donateBtnTxt": "DONATE",
+      "navBarTxt1": "HOME",
+      "navBarTxt2": "ABOUT US",
+      "navBarTxt3": "BENEFACTORS",
+      "navBarTxt4": "VOLUNTEERS",
+      "navBarTxt5": "CONTACT US",
+      "emailTxt": "Email",
+      "contactUsTxt": "Contacts Us",
+      "footerIcon1": "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/facebook-icon-18-256.png",
+      "footerIcon2": "https://assets.ifttt.com/images/channels/32/icons/on_color_large.png",
+      "footerIcon3": "http://www.108garage.com/wp-content/uploads/2016/07/6832133-0-instagram-6-xxl.png",
+      "donateToday": "DONATE TODAY",
+      "newMessageTxt": "New message",
+      "nameTxt": "Name",
+      "messageTxt": "Message",
+      "sendMessageTxt": "Send message"
+
+  }
+]
